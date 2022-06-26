@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,500&family=Roboto&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+#w #m {
+    background-color: #FFFFFF;
+    width: auto;
+    height: 8vh;
+}
+
+#collection {
+    background-color: #FFFFFF;
+    width: auto;
+    height: 16vh;
+}
+
+#outlet {
+    background-color: #FFFFFF;
+    width: auto;
+    height: 16vh;
+}
+
+.sellers
+{
+
+    margin: 7rem 0 7rem 0;
+}
+
+.exclusive
+{
+    margin:1rem 0 0 0 ;
+}
+
+
+// gentle css
+.gentle {
+    background-color: #EEEEEE;
+    margin: 7rem 0 0 0;
+    padding: 9rem 3rem;
+}
+
+
+
+// footer css
+#fc {
+    background-color: #F5F5F5;
+}
+
+#fc ul {
+    list-style: none;
+}
+
+#fc ul li a {
+    text-decoration: none;
+}
+
+#fc a {
+    color: grey;
+}
+
+#fc a:hover {
+    color: #FE3638;
+}
+
+#ar a {
+    text-decoration: none;
+    color: grey;
+}
+
+#ar i:hover {
+    color: #FE3638;
+}
+
+#bti {
+    a {
+        i {
+            color: black;
+        }
+    }
+}
+
+
+
+// Card Css start
+.card {
+    border-radius: 9px;
+    background: #fff;
+    box-shadow: 0 6px 10px rgba(0, 0, 0, .08), 0 0 6px rgba(0, 0, 0, .05);
+    transition: .3s transform cubic-bezier(.155, 1.105, .295, 1.12), .3s box-shadow, .3s -webkit-transform cubic-bezier(.155, 1.105, .295, 1.12);
+
+    cursor: pointer;
+}
+
+.card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, .12), 0 4px 8px rgba(0, 0, 0, .06);
+}
+
+// Card Css ends
+
+#exclusive {
+    background-color: #EEEEEE;
+}

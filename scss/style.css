@@ -1,0 +1,91 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,500&family=Roboto&display=swap");
+body {
+  font-family: 'Poppins', sans-serif;
+  font-family: 'Roboto', sans-serif;
+}
+
+#w #m {
+  background-color: #FFFFFF;
+  width: auto;
+  height: 8vh;
+}
+
+#collection {
+  background-color: #FFFFFF;
+  width: auto;
+  height: 16vh;
+}
+
+#outlet {
+  background-color: #FFFFFF;
+  width: auto;
+  height: 16vh;
+}
+
+.sellers {
+  margin: 7rem 0 7rem 0;
+}
+
+.exclusive {
+  margin: 1rem 0 0 0;
+}
+
+.gentle {
+  background-color: #EEEEEE;
+  margin: 7rem 0 0 0;
+  padding: 9rem 3rem;
+}
+
+#fc {
+  background-color: #F5F5F5;
+}
+
+#fc ul {
+  list-style: none;
+}
+
+#fc ul li a {
+  text-decoration: none;
+}
+
+#fc a {
+  color: grey;
+}
+
+#fc a:hover {
+  color: #FE3638;
+}
+
+#ar a {
+  text-decoration: none;
+  color: grey;
+}
+
+#ar i:hover {
+  color: #FE3638;
+}
+
+#bti a i {
+  color: black;
+}
+
+.card {
+  border-radius: 9px;
+  background: #fff;
+  -webkit-box-shadow: 0 6px 10px rgba(0, 0, 0, 0.08), 0 0 6px rgba(0, 0, 0, 0.05);
+          box-shadow: 0 6px 10px rgba(0, 0, 0, 0.08), 0 0 6px rgba(0, 0, 0, 0.05);
+  transition: 0.3s transform cubic-bezier(0.155, 1.105, 0.295, 1.12), 0.3s box-shadow, 0.3s -webkit-transform cubic-bezier(0.155, 1.105, 0.295, 1.12);
+  cursor: pointer;
+}
+
+.card:hover {
+  -webkit-transform: scale(1.05);
+          transform: scale(1.05);
+  -webkit-box-shadow: 0 10px 20px rgba(0, 0, 0, 0.12), 0 4px 8px rgba(0, 0, 0, 0.06);
+          box-shadow: 0 10px 20px rgba(0, 0, 0, 0.12), 0 4px 8px rgba(0, 0, 0, 0.06);
+}
+
+#exclusive {
+  background-color: #EEEEEE;
+}
+/*# sourceMappingURL=style.css.map */
